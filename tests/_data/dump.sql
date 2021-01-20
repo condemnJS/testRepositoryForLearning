@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+CREATE TABLE "review" (
+    `id`
+)
